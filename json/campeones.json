@@ -1,0 +1,25 @@
+{
+    "campeones": [
+      {
+        "id": 1,
+        "nombreEquipo": "Equipo A",
+        "categoria": "Mixta",
+        "torneo": "Torneo 1",
+        "liga": "Liga 1"
+      },
+      {
+        "id": 2,
+        "nombreEquipo": "Equipo B",
+        "categoria": "Femenina",
+        "torneo": "Torneo 2",
+        "liga": "Liga 2"
+      },
+      {
+        "id": 3,
+        "nombreEquipo": "Equipo C",
+        "categoria": "Masculina",
+        "torneo": "Torneo 1",
+        "liga": "Liga 1"
+      }
+    ]
+  }
